@@ -15,6 +15,10 @@ styles.css: 	The CSS file for styling the game.
 
 ## Demonstration
 
+*Link*
+
+<https://kenkwok630.github.io/Rock-paper-scissors-Game/>
+
 *Mobile*
 
 
