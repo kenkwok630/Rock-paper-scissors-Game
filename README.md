@@ -1,5 +1,3 @@
-# Rock-paper-scissors-Game
-
 # Rock-paper-scissors Game
 This repository contains the code for a simple Rock-paper-scissors game built using HTML, CSS, and JavaScript. The game allows the user to play Rock-paper-scissors against the computer and keeps track of the number of wins, draws, and losses.
 
